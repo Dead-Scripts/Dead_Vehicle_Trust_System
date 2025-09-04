@@ -1,4 +1,6 @@
 ### VehicleTrustSystem
+[![Developer Discord]](https://discord.gg/m39AUuSatU)
+
     It is here everyone! The first of it's kind (at least I think)! A vehicle restriction script that is just for personal vehicles! You have commands such as /trust, /untrust to trust and untrust players to use the vehicle you own.
     This all works via a file called whitelist.json and it keeps track of every player's vehicles they are allowed to drive! If you run a huge huge server, this may not be the resource for you unless you have a developer capable of moving it to a database storage system... Other than that, this resource runs well for the smaller servers. I may look into adding an SQL option in the future though.
 
